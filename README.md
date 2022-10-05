@@ -10,10 +10,14 @@ I used [Martin Zikmund 's Uno Health app "design pattern / code template"](https
 
 ## Status
 
-- Demaged. If I change (at UWP project)min. os. build to 16299, all seems to be ok.
-But for 15063 I catch “all systems mulfunction” ^ ^
-Perhaps, Uno.Core and Uno.UI not liked Microsoft.UI.Xaml.Controls … idk, really! : :
+- Demaged. If I change (at UWP project) min. os. build to 16299, all seems to be ok.
+- But for 15063 I catch “all systems mulfunction” ^ ^
+- Perhaps, Uno.Core and Uno.UI not liked Microsoft.UI.Xaml.Controls … idk, really :(
 
+## Contribute
+- Please help me if you can...
+- Feel free to open an issue if you want to report a bug, give feedback, or just want to ask a question. PRs are very appreciated.
+- I open Issue "Help wanted" ;)
 
 ## ..
 AS IS. No support. RnD only.
