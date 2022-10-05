@@ -6,7 +6,7 @@ This sample shows a concept of a Health app running on Windows 10, iOS, iPadOS, 
 
 Inspired by [Jordan Singer](https://twitter.com/jsngr?s=20).
 
-Also I used [Martin Zikmund](https://github.com/MartinZikmund/uno-health-app-concept/)'s Uno Health app "design pattern / code template".
+I used [Martin Zikmund 's Uno Health app "design pattern / code template"](https://github.com/MartinZikmund/uno-health-app-concept/) for my RnD.
 
 ## Status
 
