@@ -31,18 +31,42 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Hearing.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Fire.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Ear.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Dumbbell.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Summary.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Sleep.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Heart.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Activity.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Breath.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Highlights.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Body.png" />
-    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Favorites.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Hearing.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Fire.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Ear.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Dumbbell.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Summary.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Sleep.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Heart.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Activity.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Breath.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Highlights.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Body.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Icons\Favorites.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="$(MSBuildThisFileDirectory)Assets\SharedAssets.md" />
     <Content Include="$(MSBuildThisFileDirectory)Assets\SplashScreen.png" />
   </ItemGroup>

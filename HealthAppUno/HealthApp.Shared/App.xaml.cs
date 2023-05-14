@@ -30,7 +30,7 @@ namespace HealthApp
         /// </summary>
         public App()
         {
-            ConfigureFilters(global::Uno.Extensions.LogExtensionPoint.AmbientLoggerFactory);
+            //ConfigureFilters(global::Uno.Extensions.LogExtensionPoint.AmbientLoggerFactory);
 
             this.InitializeComponent();
 
@@ -109,7 +109,7 @@ namespace HealthApp
             deferral.Complete();
         }
 
-
+        /*
         /// <summary>
         /// Configures global logging
         /// </summary>
@@ -162,5 +162,6 @@ namespace HealthApp
                 .AddConsole(LogLevel.Information);
 #endif
         }
+        */
     }
 }
